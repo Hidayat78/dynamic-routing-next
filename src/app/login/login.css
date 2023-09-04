@@ -1,0 +1,19 @@
+.login-menu{
+    display: flex;
+}
+.login-menu h4{
+    /* font-size: 30px; */
+    margin: 0;
+}
+.login-menu li{
+    margin-left: 25px;
+    list-style-type: none;
+}
+.login-menu a{
+    text-decoration: none;
+}
+.heading{
+    color: orange;
+    text-align: center;
+    margin-top: 50px;
+}
